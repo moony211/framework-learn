@@ -11,6 +11,7 @@
 
 ### 1주차 (Week 1) - Web Fundamentals
 - **학습 목표**: Semantic HTML, CSS Box Model
+- **상태**: ✅ 완료 ([배포 보기](https://moony211.github.io/my-portfolio-2026/))
 - **과제**: 개인 포트폴리오 사이트 (static)
 - **시작하기**: [Week 1 상세 보기](./curriculum/week-1.md)
 
